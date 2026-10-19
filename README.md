@@ -1,0 +1,2 @@
+# premium-toy-soldier-001-tin-soldier-mold-and-paint-sch
+Tired of losing track of which tin soldier mold is ready for pouring or which paint layer needs drying? Stop juggling sticky notes and scattered spreadsheets.  This Notion template centralizes your entire casting and painting workflow—from mold prep to final varnish. It helps you track curing times, paint sequences, and batch progress so you never
